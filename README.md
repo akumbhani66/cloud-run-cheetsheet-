@@ -1,4 +1,4 @@
-# cloud-run-cheetsheet
+# Google-cloud-run-cheetsheet
 
 1. Tag image: 
 
